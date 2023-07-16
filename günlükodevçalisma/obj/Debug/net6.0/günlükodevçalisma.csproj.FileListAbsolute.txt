@@ -1,0 +1,15 @@
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\günlükodevçalisma\bin\Debug\net6.0\günlükodevçalisma.exe
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\günlükodevçalisma\bin\Debug\net6.0\günlükodevçalisma.deps.json
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\günlükodevçalisma\bin\Debug\net6.0\günlükodevçalisma.runtimeconfig.json
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\günlükodevçalisma\bin\Debug\net6.0\günlükodevçalisma.dll
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\günlükodevçalisma\bin\Debug\net6.0\günlükodevçalisma.pdb
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\günlükodevçalisma\obj\Debug\net6.0\günlükodevçalisma.csproj.AssemblyReference.cache
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\günlükodevçalisma\obj\Debug\net6.0\günlükodevçalisma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\günlükodevçalisma\obj\Debug\net6.0\günlükodevçalisma.AssemblyInfoInputs.cache
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\günlükodevçalisma\obj\Debug\net6.0\günlükodevçalisma.AssemblyInfo.cs
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\günlükodevçalisma\obj\Debug\net6.0\günlükodevçalisma.csproj.CoreCompileInputs.cache
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\günlükodevçalisma\obj\Debug\net6.0\günlükodevçalisma.dll
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\günlükodevçalisma\obj\Debug\net6.0\refint\günlükodevçalisma.dll
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\günlükodevçalisma\obj\Debug\net6.0\günlükodevçalisma.pdb
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\günlükodevçalisma\obj\Debug\net6.0\günlükodevçalisma.genruntimeconfig.cache
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\günlükodevçalisma\obj\Debug\net6.0\ref\günlükodevçalisma.dll

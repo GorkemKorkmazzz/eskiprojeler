@@ -1,0 +1,15 @@
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\denem\bin\Debug\net6.0\denem.exe
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\denem\bin\Debug\net6.0\denem.deps.json
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\denem\bin\Debug\net6.0\denem.runtimeconfig.json
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\denem\bin\Debug\net6.0\denem.dll
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\denem\bin\Debug\net6.0\denem.pdb
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\denem\obj\Debug\net6.0\denem.csproj.AssemblyReference.cache
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\denem\obj\Debug\net6.0\denem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\denem\obj\Debug\net6.0\denem.AssemblyInfoInputs.cache
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\denem\obj\Debug\net6.0\denem.AssemblyInfo.cs
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\denem\obj\Debug\net6.0\denem.csproj.CoreCompileInputs.cache
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\denem\obj\Debug\net6.0\denem.dll
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\denem\obj\Debug\net6.0\refint\denem.dll
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\denem\obj\Debug\net6.0\denem.pdb
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\denem\obj\Debug\net6.0\denem.genruntimeconfig.cache
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\denem\obj\Debug\net6.0\ref\denem.dll

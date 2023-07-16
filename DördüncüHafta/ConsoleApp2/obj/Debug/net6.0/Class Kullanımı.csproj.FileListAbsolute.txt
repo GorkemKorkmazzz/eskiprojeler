@@ -1,0 +1,15 @@
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\DördüncüHafta\ConsoleApp2\bin\Debug\net6.0\Class Kullanımı.exe
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\DördüncüHafta\ConsoleApp2\bin\Debug\net6.0\Class Kullanımı.deps.json
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\DördüncüHafta\ConsoleApp2\bin\Debug\net6.0\Class Kullanımı.runtimeconfig.json
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\DördüncüHafta\ConsoleApp2\bin\Debug\net6.0\Class Kullanımı.dll
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\DördüncüHafta\ConsoleApp2\bin\Debug\net6.0\Class Kullanımı.pdb
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\DördüncüHafta\ConsoleApp2\obj\Debug\net6.0\Class Kullanımı.csproj.AssemblyReference.cache
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\DördüncüHafta\ConsoleApp2\obj\Debug\net6.0\Class Kullanımı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\DördüncüHafta\ConsoleApp2\obj\Debug\net6.0\Class Kullanımı.AssemblyInfoInputs.cache
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\DördüncüHafta\ConsoleApp2\obj\Debug\net6.0\Class Kullanımı.AssemblyInfo.cs
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\DördüncüHafta\ConsoleApp2\obj\Debug\net6.0\Class Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\DördüncüHafta\ConsoleApp2\obj\Debug\net6.0\Class Kullanımı.dll
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\DördüncüHafta\ConsoleApp2\obj\Debug\net6.0\refint\Class Kullanımı.dll
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\DördüncüHafta\ConsoleApp2\obj\Debug\net6.0\Class Kullanımı.pdb
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\DördüncüHafta\ConsoleApp2\obj\Debug\net6.0\Class Kullanımı.genruntimeconfig.cache
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\DördüncüHafta\ConsoleApp2\obj\Debug\net6.0\ref\Class Kullanımı.dll

@@ -1,0 +1,15 @@
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\CalismaDosyasi\Methodlar\bin\Debug\net6.0\Methodlar.exe
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\CalismaDosyasi\Methodlar\bin\Debug\net6.0\Methodlar.deps.json
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\CalismaDosyasi\Methodlar\bin\Debug\net6.0\Methodlar.runtimeconfig.json
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\CalismaDosyasi\Methodlar\bin\Debug\net6.0\Methodlar.dll
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\CalismaDosyasi\Methodlar\bin\Debug\net6.0\Methodlar.pdb
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\CalismaDosyasi\Methodlar\obj\Debug\net6.0\Methodlar.csproj.AssemblyReference.cache
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\CalismaDosyasi\Methodlar\obj\Debug\net6.0\Methodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\CalismaDosyasi\Methodlar\obj\Debug\net6.0\Methodlar.AssemblyInfoInputs.cache
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\CalismaDosyasi\Methodlar\obj\Debug\net6.0\Methodlar.AssemblyInfo.cs
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\CalismaDosyasi\Methodlar\obj\Debug\net6.0\Methodlar.csproj.CoreCompileInputs.cache
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\CalismaDosyasi\Methodlar\obj\Debug\net6.0\Methodlar.dll
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\CalismaDosyasi\Methodlar\obj\Debug\net6.0\refint\Methodlar.dll
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\CalismaDosyasi\Methodlar\obj\Debug\net6.0\Methodlar.pdb
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\CalismaDosyasi\Methodlar\obj\Debug\net6.0\Methodlar.genruntimeconfig.cache
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\CalismaDosyasi\Methodlar\obj\Debug\net6.0\ref\Methodlar.dll

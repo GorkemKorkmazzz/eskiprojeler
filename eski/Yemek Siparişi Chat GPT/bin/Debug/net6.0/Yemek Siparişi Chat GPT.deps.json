@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Yemek Siparişi Chat GPT/1.0.0": {
+        "runtime": {
+          "Yemek Siparişi Chat GPT.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Yemek Siparişi Chat GPT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

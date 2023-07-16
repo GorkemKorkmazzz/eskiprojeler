@@ -1,0 +1,15 @@
+C:\Users\gorke\source\repos\Orhan Hoca Ders\ConsoleApp01\bin\Debug\net6.0\ConsoleApp01.exe
+C:\Users\gorke\source\repos\Orhan Hoca Ders\ConsoleApp01\bin\Debug\net6.0\ConsoleApp01.deps.json
+C:\Users\gorke\source\repos\Orhan Hoca Ders\ConsoleApp01\bin\Debug\net6.0\ConsoleApp01.runtimeconfig.json
+C:\Users\gorke\source\repos\Orhan Hoca Ders\ConsoleApp01\bin\Debug\net6.0\ConsoleApp01.dll
+C:\Users\gorke\source\repos\Orhan Hoca Ders\ConsoleApp01\bin\Debug\net6.0\ConsoleApp01.pdb
+C:\Users\gorke\source\repos\Orhan Hoca Ders\ConsoleApp01\obj\Debug\net6.0\ConsoleApp01.csproj.AssemblyReference.cache
+C:\Users\gorke\source\repos\Orhan Hoca Ders\ConsoleApp01\obj\Debug\net6.0\ConsoleApp01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorke\source\repos\Orhan Hoca Ders\ConsoleApp01\obj\Debug\net6.0\ConsoleApp01.AssemblyInfoInputs.cache
+C:\Users\gorke\source\repos\Orhan Hoca Ders\ConsoleApp01\obj\Debug\net6.0\ConsoleApp01.AssemblyInfo.cs
+C:\Users\gorke\source\repos\Orhan Hoca Ders\ConsoleApp01\obj\Debug\net6.0\ConsoleApp01.csproj.CoreCompileInputs.cache
+C:\Users\gorke\source\repos\Orhan Hoca Ders\ConsoleApp01\obj\Debug\net6.0\ConsoleApp01.dll
+C:\Users\gorke\source\repos\Orhan Hoca Ders\ConsoleApp01\obj\Debug\net6.0\refint\ConsoleApp01.dll
+C:\Users\gorke\source\repos\Orhan Hoca Ders\ConsoleApp01\obj\Debug\net6.0\ConsoleApp01.pdb
+C:\Users\gorke\source\repos\Orhan Hoca Ders\ConsoleApp01\obj\Debug\net6.0\ConsoleApp01.genruntimeconfig.cache
+C:\Users\gorke\source\repos\Orhan Hoca Ders\ConsoleApp01\obj\Debug\net6.0\ref\ConsoleApp01.dll

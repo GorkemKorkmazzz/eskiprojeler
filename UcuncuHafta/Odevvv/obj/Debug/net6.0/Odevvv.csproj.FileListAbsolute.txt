@@ -1,0 +1,15 @@
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\UcuncuHafta\Odevvv\obj\Debug\net6.0\Odevvv.csproj.AssemblyReference.cache
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\UcuncuHafta\Odevvv\obj\Debug\net6.0\Odevvv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\UcuncuHafta\Odevvv\obj\Debug\net6.0\Odevvv.AssemblyInfoInputs.cache
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\UcuncuHafta\Odevvv\obj\Debug\net6.0\Odevvv.AssemblyInfo.cs
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\UcuncuHafta\Odevvv\obj\Debug\net6.0\Odevvv.csproj.CoreCompileInputs.cache
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\UcuncuHafta\Odevvv\bin\Debug\net6.0\Odevvv.exe
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\UcuncuHafta\Odevvv\bin\Debug\net6.0\Odevvv.deps.json
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\UcuncuHafta\Odevvv\bin\Debug\net6.0\Odevvv.runtimeconfig.json
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\UcuncuHafta\Odevvv\bin\Debug\net6.0\Odevvv.dll
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\UcuncuHafta\Odevvv\bin\Debug\net6.0\Odevvv.pdb
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\UcuncuHafta\Odevvv\obj\Debug\net6.0\Odevvv.dll
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\UcuncuHafta\Odevvv\obj\Debug\net6.0\refint\Odevvv.dll
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\UcuncuHafta\Odevvv\obj\Debug\net6.0\Odevvv.pdb
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\UcuncuHafta\Odevvv\obj\Debug\net6.0\Odevvv.genruntimeconfig.cache
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\UcuncuHafta\Odevvv\obj\Debug\net6.0\ref\Odevvv.dll

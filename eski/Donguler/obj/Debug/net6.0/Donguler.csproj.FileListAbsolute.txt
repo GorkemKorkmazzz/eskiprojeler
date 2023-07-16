@@ -1,0 +1,15 @@
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\Donguler\bin\Debug\net6.0\Donguler.exe
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\Donguler\bin\Debug\net6.0\Donguler.deps.json
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\Donguler\bin\Debug\net6.0\Donguler.runtimeconfig.json
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\Donguler\bin\Debug\net6.0\Donguler.dll
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\Donguler\bin\Debug\net6.0\Donguler.pdb
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\Donguler\obj\Debug\net6.0\Donguler.csproj.AssemblyReference.cache
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\Donguler\obj\Debug\net6.0\Donguler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\Donguler\obj\Debug\net6.0\Donguler.AssemblyInfoInputs.cache
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\Donguler\obj\Debug\net6.0\Donguler.AssemblyInfo.cs
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\Donguler\obj\Debug\net6.0\Donguler.csproj.CoreCompileInputs.cache
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\Donguler\obj\Debug\net6.0\Donguler.dll
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\Donguler\obj\Debug\net6.0\refint\Donguler.dll
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\Donguler\obj\Debug\net6.0\Donguler.pdb
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\Donguler\obj\Debug\net6.0\Donguler.genruntimeconfig.cache
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\Donguler\obj\Debug\net6.0\ref\Donguler.dll

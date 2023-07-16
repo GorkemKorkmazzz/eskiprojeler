@@ -1,0 +1,15 @@
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\DördüncüHafta\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\DördüncüHafta\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\DördüncüHafta\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\DördüncüHafta\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\DördüncüHafta\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\DördüncüHafta\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\DördüncüHafta\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\DördüncüHafta\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\DördüncüHafta\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\DördüncüHafta\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\DördüncüHafta\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\DördüncüHafta\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\DördüncüHafta\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\DördüncüHafta\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\DördüncüHafta\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll

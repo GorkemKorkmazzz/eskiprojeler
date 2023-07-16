@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methodlar", "Methodlar\Methodlar.csproj", "{739437F2-F7C8-472A-947E-B06C18588667}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassKullanimi", "ClassKullanimi\ClassKullanimi.csproj", "{D86ECD91-3092-43CF-97C7-5363B979F9AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ornek", "Ornek\Ornek.csproj", "{6A73DF80-80DE-4F74-84C4-2E5A5E609FCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{739437F2-F7C8-472A-947E-B06C18588667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{739437F2-F7C8-472A-947E-B06C18588667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{739437F2-F7C8-472A-947E-B06C18588667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{739437F2-F7C8-472A-947E-B06C18588667}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D86ECD91-3092-43CF-97C7-5363B979F9AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D86ECD91-3092-43CF-97C7-5363B979F9AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D86ECD91-3092-43CF-97C7-5363B979F9AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D86ECD91-3092-43CF-97C7-5363B979F9AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A73DF80-80DE-4F74-84C4-2E5A5E609FCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A73DF80-80DE-4F74-84C4-2E5A5E609FCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A73DF80-80DE-4F74-84C4-2E5A5E609FCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A73DF80-80DE-4F74-84C4-2E5A5E609FCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63E69E00-3A7E-4B13-ACD9-6CCA173FF120}
+	EndGlobalSection
+EndGlobal

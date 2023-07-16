@@ -1,0 +1,15 @@
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\DördüncüHafta\Referance Type and Value Type\bin\Debug\net6.0\Referance Type and Value Type.exe
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\DördüncüHafta\Referance Type and Value Type\bin\Debug\net6.0\Referance Type and Value Type.deps.json
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\DördüncüHafta\Referance Type and Value Type\bin\Debug\net6.0\Referance Type and Value Type.runtimeconfig.json
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\DördüncüHafta\Referance Type and Value Type\bin\Debug\net6.0\Referance Type and Value Type.dll
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\DördüncüHafta\Referance Type and Value Type\bin\Debug\net6.0\Referance Type and Value Type.pdb
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\DördüncüHafta\Referance Type and Value Type\obj\Debug\net6.0\Referance Type and Value Type.csproj.AssemblyReference.cache
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\DördüncüHafta\Referance Type and Value Type\obj\Debug\net6.0\Referance Type and Value Type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\DördüncüHafta\Referance Type and Value Type\obj\Debug\net6.0\Referance Type and Value Type.AssemblyInfoInputs.cache
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\DördüncüHafta\Referance Type and Value Type\obj\Debug\net6.0\Referance Type and Value Type.AssemblyInfo.cs
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\DördüncüHafta\Referance Type and Value Type\obj\Debug\net6.0\Referance Type and Value Type.csproj.CoreCompileInputs.cache
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\DördüncüHafta\Referance Type and Value Type\obj\Debug\net6.0\Referance Type and Value Type.dll
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\DördüncüHafta\Referance Type and Value Type\obj\Debug\net6.0\refint\Referance Type and Value Type.dll
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\DördüncüHafta\Referance Type and Value Type\obj\Debug\net6.0\Referance Type and Value Type.pdb
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\DördüncüHafta\Referance Type and Value Type\obj\Debug\net6.0\Referance Type and Value Type.genruntimeconfig.cache
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\DördüncüHafta\Referance Type and Value Type\obj\Debug\net6.0\ref\Referance Type and Value Type.dll

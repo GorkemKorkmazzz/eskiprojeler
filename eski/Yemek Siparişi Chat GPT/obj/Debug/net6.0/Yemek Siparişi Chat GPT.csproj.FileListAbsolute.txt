@@ -1,0 +1,15 @@
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\Yemek Siparişi Chat GPT\bin\Debug\net6.0\Yemek Siparişi Chat GPT.exe
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\Yemek Siparişi Chat GPT\bin\Debug\net6.0\Yemek Siparişi Chat GPT.deps.json
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\Yemek Siparişi Chat GPT\bin\Debug\net6.0\Yemek Siparişi Chat GPT.runtimeconfig.json
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\Yemek Siparişi Chat GPT\bin\Debug\net6.0\Yemek Siparişi Chat GPT.dll
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\Yemek Siparişi Chat GPT\bin\Debug\net6.0\Yemek Siparişi Chat GPT.pdb
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\Yemek Siparişi Chat GPT\obj\Debug\net6.0\Yemek Siparişi Chat GPT.csproj.AssemblyReference.cache
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\Yemek Siparişi Chat GPT\obj\Debug\net6.0\Yemek Siparişi Chat GPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\Yemek Siparişi Chat GPT\obj\Debug\net6.0\Yemek Siparişi Chat GPT.AssemblyInfoInputs.cache
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\Yemek Siparişi Chat GPT\obj\Debug\net6.0\Yemek Siparişi Chat GPT.AssemblyInfo.cs
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\Yemek Siparişi Chat GPT\obj\Debug\net6.0\Yemek Siparişi Chat GPT.csproj.CoreCompileInputs.cache
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\Yemek Siparişi Chat GPT\obj\Debug\net6.0\Yemek Siparişi Chat GPT.dll
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\Yemek Siparişi Chat GPT\obj\Debug\net6.0\refint\Yemek Siparişi Chat GPT.dll
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\Yemek Siparişi Chat GPT\obj\Debug\net6.0\Yemek Siparişi Chat GPT.pdb
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\Yemek Siparişi Chat GPT\obj\Debug\net6.0\Yemek Siparişi Chat GPT.genruntimeconfig.cache
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\Yemek Siparişi Chat GPT\obj\Debug\net6.0\ref\Yemek Siparişi Chat GPT.dll

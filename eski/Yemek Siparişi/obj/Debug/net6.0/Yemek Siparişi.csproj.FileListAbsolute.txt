@@ -1,0 +1,15 @@
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\Yemek Siparişi\bin\Debug\net6.0\Yemek Siparişi.exe
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\Yemek Siparişi\bin\Debug\net6.0\Yemek Siparişi.deps.json
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\Yemek Siparişi\bin\Debug\net6.0\Yemek Siparişi.runtimeconfig.json
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\Yemek Siparişi\bin\Debug\net6.0\Yemek Siparişi.dll
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\Yemek Siparişi\bin\Debug\net6.0\Yemek Siparişi.pdb
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\Yemek Siparişi\obj\Debug\net6.0\Yemek Siparişi.csproj.AssemblyReference.cache
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\Yemek Siparişi\obj\Debug\net6.0\Yemek Siparişi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\Yemek Siparişi\obj\Debug\net6.0\Yemek Siparişi.AssemblyInfoInputs.cache
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\Yemek Siparişi\obj\Debug\net6.0\Yemek Siparişi.AssemblyInfo.cs
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\Yemek Siparişi\obj\Debug\net6.0\Yemek Siparişi.csproj.CoreCompileInputs.cache
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\Yemek Siparişi\obj\Debug\net6.0\Yemek Siparişi.dll
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\Yemek Siparişi\obj\Debug\net6.0\refint\Yemek Siparişi.dll
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\Yemek Siparişi\obj\Debug\net6.0\Yemek Siparişi.pdb
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\Yemek Siparişi\obj\Debug\net6.0\Yemek Siparişi.genruntimeconfig.cache
+C:\Users\gorke\OneDrive\Masaüstü\Yazılım\C#\Yemek Siparişi\obj\Debug\net6.0\ref\Yemek Siparişi.dll
